@@ -1,3 +1,5 @@
+![](Images/Final%20Prototypes/Home%20Page.png)
+
 ## Description
  
 The non-profitable organization in Kitchener-Waterloo area of Ontario comes with the vision and a mission in their mind to respectfully and compassionately empower persons who are homeless with the hope of providing emergency and temporary shelter with the help of our volunteers. Our dedicated volunteers tend to serve who are in real need, and help them by providing clothing and food which are the basic necessities for the survival. In addition, our centers offer educational support to interested citizens who don’t have enough resources but still want to educate themselves. The site completely runs upon the donations of the people who do like our work, and want to appreciate us in some way. The organization works with the motive of removing the barriers from people’s life and instead, comes with the mindset of solving any problem they comes across.
